@@ -9,7 +9,7 @@ I'm a Data Science undergrad at UNIVESP (Virtual University of the State of São
 *   🌍  I'm based in Campinas, SP, Brazil
 *   ✉️  You can contact me at [clayton.puina@usp.br](mailto:clayton.puina@usp.br)
 *   🧠  I'm learning R, Python, SQL, JavaScript, Java, CSS, HTML, Google DataStudio, Tableau, Pandas, Numpy, Spark, Containers, Node.JS, Git, Rest API and Fast API, Postgres.
-*   🤝  I'm open to collaborating on BI and Data Viz, Data Analysis, Business Analytics, Databases, Back-end development.### Skills<p align="left">
+*   🤝  I'm open to collaborating on BI and Data Viz, Data Analysis, Business Analytics, Databases, Back-end development.<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
