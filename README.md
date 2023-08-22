@@ -4,12 +4,12 @@ Hi, I'm Clayton Puina
 Data Analyst and Back-end Programmer
 ------------------------------------
 
-I'm a Data Science undergrad at UNIVESP (Virtual University of the State of São Paulo), and a post-graduation student in Data Science and Analytics at USP (University of São Paulo). I'm passionate about Computer Programming, Data Science and Business Analytics. I also have a BA in Accounting and Associate's degree in Finance.
+I'm a Data Science undergrad at UNIVESP (Virtual University of the State of São Paulo). I'm passionate about Computer Programming, Data Science and Business Analytics. I also have a BA in Accounting and Associate's degree in Finance.
 
 *   🌍  I'm based in Campinas, SP, Brazil
-*   ✉️  You can contact me at [clayton.puina@usp.br](mailto:clayton.puina@usp.br)
+*   ✉️  You can contact me at [clayton.puina@gmail.com](mailto:clayton.puina@gmail.com)
 *   🧠  I'm clued-up and constinuously learning: R, Python, SQL, Excel, Power BI, Tableau, Google DataStudio, ETLs, Query, Databricks, Node.JS, Git, APIs, GCP, AWS, JavaScript, CSS, HTML, C#, .NET.
-*   🤝  I'm open to collaborating on BI and Data Viz Projects, Data Analysis, Business Analytics, Databases, Back-end programming.
+*   🤝  I'm open to collaborate on BI and Data Viz Projects, Data Analysis, Business Analytics, Databases, Back-end programming.
 *   My main stacks: <p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
